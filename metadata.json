@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Bowl",
+  "description": "Artisanal diet salad storefront, custom bowl builder, and monthly nutrition membership platform built on the MERN stack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
